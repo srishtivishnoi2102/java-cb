@@ -5,6 +5,7 @@ public class Decimal2Binary {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		System.out.println("Putting a random string here for testing git");
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the number in decimal : ");
 		long d_num =sc.nextInt();
